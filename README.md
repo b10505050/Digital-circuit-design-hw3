@@ -30,7 +30,7 @@ There are some important things that you should notice:
  Design your homework in the given “poker.v” file. You are NOT ALLOWED to change the filename and the header of the top module (i.e., the module name and the I/O ports).
 
 
- If your design contains more than one module, don’t create a new file for them. Just put those modules in “poker.v.”
+ If your design contains more than one module, don’t create a new file for them. Just put those modules in “poker.v.”
 
 
  The output waveform will be dumped to file “poker.fsdb.” You can use nWave to examine it.
